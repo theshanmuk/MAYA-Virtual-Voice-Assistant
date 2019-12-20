@@ -12,7 +12,6 @@ these are the required packages:
 - datetime
 - smtplib
 - ctypes
-- ctypes.wintypes
 - random
 - os
 - wmi
