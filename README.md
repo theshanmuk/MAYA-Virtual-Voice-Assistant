@@ -26,7 +26,9 @@ these are the required packages:
 - MAYA   : responds
 - open   : opens system and web Applications 
 - search : web searching
+- show   : it shows the time/date/ip etc
 - play   : it plays songs and videos in system and web
+- Exit   : it close the maya application
 # M A Y A Skills
 - Opens a web applications what you want present in the system
 - Opens windows applications
