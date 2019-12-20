@@ -30,7 +30,7 @@ these are the required packages:
 # M A Y A Skills
 - Opens a web applications what you want present in the system
 - Opens windows applications
-- Play a videos in Youtube and 
+- Play a videos in Youtube 
 - play songs in the system
 - search location for a place
 - Tells about something, by searching on the internet 
@@ -57,7 +57,7 @@ these are the required packages:
 - Easy voice-command customization
 - Graphical User Interface easy controling
 # Updates
-the updating of version 8. sequence will be soon..
+the updates of version 8. sequence will be soon..
 # Designed by Shanmuk Michael
 
 
