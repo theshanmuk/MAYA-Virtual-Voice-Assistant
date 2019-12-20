@@ -378,6 +378,16 @@ def process_text(input):
             methods = ins.WmiMonitorBrightnessMethods()[0]
             methods.WmiSetBrightness(100, 0)
             return
+        elif 'move on' in input.lower()  or 'exit' in  input.lower()   or 'bhai' in input.lower() or 'quit' in input.lower() or 'bye' in input.lower():
+            pygame.mixer.music.load('sound.wav')
+            pygame.mixer.music.play(0)
+            time.sleep(1)
+            speak("Starting MAYA Aplication Shutdown Sequence")
+            rand = ['fair well', 'good bye!']
+            r = random.choice(rand)
+            speak(r)
+            sys.exit()
+            return
         elif "hey maya" in input.lower() or "hey maiya" in input.lower() or "hey" in input.lower():
             pygame.mixer.music.load('sound.wav')
             pygame.mixer.music.play(0)
