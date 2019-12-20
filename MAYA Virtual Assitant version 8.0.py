@@ -30,8 +30,6 @@ def speak(audio):
     engine.say(audio)
     engine.runAndWait()
     #textbox.configure(state=NORMAL)
-
-
     #textbox.insert('end', '\nM A Y A:\t')
     #textbox.insert('end', audio)
     #textbox.configure(state=DISABLED)
@@ -151,7 +149,7 @@ def open_application(input):
                 return
             elif "code" in input.lower():
                 speak('Hold on.. I will open my code for you')
-                url = ("https://github.com/shanmukmichael/master/Maya Virtual Assitant.py")
+                url = ("https://https://github.com/shanmukmichael/MAYA-virtual-Assistant-version-8.0")
                 Chrome = ("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s")
                 wb.get(Chrome).open(url)
                 return
@@ -591,10 +589,9 @@ if __name__ == '__main__':
     def about():
         tk.messagebox.showinfo('About MAYA! ','MAYA is a Virtual Voice Assistant designed for a service'
                                               ' which can access and control the functions and the web in the system.\n'
-                                    '-Developed by Shanmuk Michael.\n\nUpdates will be soon...')
+                                              '-Developed by Shanmuk Michael.\n\nUpdates will be soon...')
     menubar = Menu(root)
     root.config(menu=menubar)
-
     subMenu = Menu(menubar, tearoff=0)
     menubar.add_cascade(label="Help", menu=subMenu)
     subMenu.add_command(label="About", command=about)
