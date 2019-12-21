@@ -37,13 +37,13 @@ these are the required packages:
 - search location for a place
 - Tells about something, by searching on the internet 
 - Tells the weather for a place 
-- Tells the current time and/or date 
+- Tells the current time and date 
 - Tells the battery percentage
 - Minimize/Maximize/close the windows
 - it can sleep for secs
 - it can take screenshots
 - it can lock the pc
-- it can increase/decrease the screen braightness 
+- it can increase/decrease the screen brightness 
 - it can restart/shutdown the system
 - it can send gmail set your from and to mail address
 - it says ipaddress
