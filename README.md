@@ -28,9 +28,13 @@ these are the required packages:
 #       W I N D O W S
 -----------------------------------
 -open command prompt
+
 >setpath=C:\Users\..\AppData\Local\Programs\Python\Python36\Scripts
--navigate to MAYA-virtual-Assistant-version-8.0
--type the following command
+
+ -navigate to MAYA-virtual-Assistant-version-8.0
+
+ -type the following command
+
 >pip install -r requirements.txt
 -----------------------------------
 #         L I N U X
