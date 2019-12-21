@@ -1,4 +1,4 @@
-﻿pyttsx3
+pyttsx3
 SpeechRecognition
 PyAudio
 wikipedia
