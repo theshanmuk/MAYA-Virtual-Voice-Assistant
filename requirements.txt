@@ -1,0 +1,10 @@
+﻿pyttsx3
+SpeechRecognition
+PyAudio
+wikipedia
+wolframalpha
+WMI
+pygame
+PyAutoGUI
+psutil
+ttkthemes
