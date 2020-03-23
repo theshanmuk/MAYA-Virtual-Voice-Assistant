@@ -1,0 +1,11 @@
+pyttsx3
+PyAudio
+SpeechRecognition
+webbrowser
+wikipedia
+wolframalpha
+wmi
+pygame
+pyautogui
+psutil
+
