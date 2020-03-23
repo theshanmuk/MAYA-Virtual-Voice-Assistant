@@ -23,6 +23,14 @@ these are the required packages:
 - psutil
 - string
 - tkinter 
+# windows
+step:1 Navigate to Command Prompt
+step:2 Run pip install -r requirements.txt to install dependencies
+step:3 Run MAYA-virtual-Assistant-version-8.0.py in its file location
+# Linux
+step:1 Navigate to Terminal
+step:2 Run pip install -r requirements.txt to install dependencies
+sep:3 Run MAYA-virtual-Assistant-version-8.0.py in its file location
 # M A Y A commands
 - MAYA   : responds
 - open   : opens system and web Applications 
