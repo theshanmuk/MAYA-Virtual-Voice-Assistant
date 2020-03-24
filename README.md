@@ -65,6 +65,10 @@ these are the required packages:
 - Vocal response
 - Easy voice-command customization
 - Graphical User Interface easy controling
+
+![M A Y A GUI](https://user-images.githubusercontent.com/55943851/77429460-b17bf380-6dff-11ea-9a51-47488b127b70.png)
+
+![About](https://user-images.githubusercontent.com/55943851/77429640-fb64d980-6dff-11ea-950d-8c6d6c40822d.png)
 # Updates
 the updating of version 8. sequence will be soon..
 # Designed by **_[Shanmuk Michael](https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8)_** :sunglasses:
