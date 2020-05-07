@@ -160,7 +160,7 @@ def open_application(input):
                 return
             elif "code" in input.lower():
                 speak('Hold on.. I will open my code for you')
-                url = ("https://github.com/shanmukmichael/master/Maya Virtual Assitant.py")
+                url = ("https://github.com/monitor/master/Maya Virtual Assitant.py")
                 Chrome = ("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s")
                 wb.get(Chrome).open(url)
                 return
@@ -321,7 +321,7 @@ def process_text(input):
             user32.ShowWindow(hWnd, SW_CLOSE)
 
         elif " create a file" in input.lower() or "create file" in input.lower():
-            f = os.mkdir("c:\\Users\shanmukmichael\Desktop")
+            f = os.mkdir("c:\\Users\monitor\Desktop")
             speak("creating a new file..")
             os.getcwd(f)
             return
@@ -495,7 +495,7 @@ def screenshot():
         name = random.randint(1000, 300000)
         speak("Taking Screenshot..")
         pic = pyautogui.screenshot()
-        pic.save("C:/Users/shanmukmichael/Desktop/screenshot" + str(name) + ".jpg")
+        pic.save("C:/Users/monitor/Desktop/screenshot" + str(name) + ".jpg")
         speak('check your desktop, i saved there')
         return
 
