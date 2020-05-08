@@ -1,5 +1,7 @@
 # MAYA-virtual-Assistant-version-8.0  :loud_sound: 
-It is a GUI Based **M A Y A** Virtual Voice Assitant.It is designed for a service which can access and controls the functions and web in the system.It can understand human speech, talk to user and execute basic commands.
+* It is a GUI Based **M A Y A** Virtual Voice Assitant 
+* It is designed for a service which can access and controls the functions and web in the system
+* It can understand human speech, talk to user and execute basic commands
 # :writing_hand: Requirements
 these are the required packages:
 - pyttsx3
