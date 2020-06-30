@@ -81,7 +81,6 @@ the updating of version 8. sequence will be soon..
   <a href="https://www.google.com/search?q=Shanmuk+Michael&rlz=1C1GCEA_enIN857IN857&oq=Shanmuk+Michael&aqs=chrome..69i57j69i60l3.9741j0j8&sourceid=chrome&ie=UTF-8">S h a n m u k</a><br>
   <br>
     <b>Cybersecurity Keen | Android & Game Developer | Artist</b>
-
   <br><br>
   <br>
   <a href="https://shanmukmichael.github.io/Shanmuk_Projects/">Github Projects </a>  |
@@ -94,4 +93,3 @@ the updating of version 8. sequence will be soon..
   <br>
   
 </p>
-
