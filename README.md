@@ -3,7 +3,6 @@
 * It is designed for a service which can access and controls the functions and web in the system
 * It can understand human speech, talk to user and execute basic commands
 # :writing_hand: Requirements
-these are the required packages:
 - pyttsx3
 - PyAudio
 - SpeechRecognition
@@ -26,12 +25,12 @@ these are the required packages:
 - tkinter 
 > ## :heavy_check_mark: windows 
 * Navigate to Command Prompt
-* Run  ```pip install -r requirements.txt``` to install dependencies
-* Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+* ```pip install -r requirements.txt``` to install dependencies
+* ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
 > ## :heavy_check_mark: Linux
 - Navigate to Terminal
-- Run ```pip install -r requirements.txt``` to install dependencies
-- Run ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
+-  ```pip install -r requirements.txt``` to install dependencies
+- ```python MAYA-virtual-Assistant-version-8.0.py``` in its file location
 # M A Y A commands
 - MAYA   : responds
 - open   : opens system and web Applications 
