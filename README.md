@@ -50,10 +50,10 @@
 - it can sleep for secs
 - it can take screenshots
 - it can lock the pc
-- it can increase/decrease the screen braightness 
+- it can increase/decrease the screen brightness 
 - it can restart/shutdown the system
 - it can send gmail set your from and to mail address
-- it says ipaddress
+- it says IPaddress
 - calculates the mathematical problems
 - you can do fun with MAYA
 - Tells everything and it can search in web if MAYA doesn't know
